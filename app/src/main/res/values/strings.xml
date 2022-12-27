@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Summation</string>
+    <string name="Welcome_text">Welcome to Summation</string>
+    <string name="Money_manager">All in one money manager</string>
+    <string name="Support_text">Track your expenses &amp; income, categorize spending, organize bills and more ;)</string>
+    <string name="Bills_organizer">Bills Organizer &amp; Reminder</string>
+    <string name="Support_texts">Get bill reminders and don\'t pay a late fees now.</string>
+    <string name="Existing_user">Existing user?</string>
+    <string name="New_user">NEXT</string>
+    <string name="Budget">Budget Planner</string>
+    <string name="Spending">Spending Insights &amp; Reports</string>
+    <string name="Additional_text">Never overspend again with smart spending alerts.   </string>
+    <string name="Additional_spending">Get personalized insights to spend smarter, and save more.</string>
+    <string name="Family">Family Budgeting</string>
+    <string name="Additional_family">Budget together and know the complete view of family finances.</string>
+    <string name="Sign_in">NEXT</string>
+    <string name="SignIn">Sign-in</string>
+    <string name="Phone_number">Phone number</string>
+    <string name="Verify">Verify</string>
+    <string name="OTP">Enter OTP</string>
+    <string name="SignOut">SignOut</string>
+</resources>

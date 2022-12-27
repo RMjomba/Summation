@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "52516820020",
+    "project_id": "summation-8ea57",
+    "storage_bucket": "summation-8ea57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52516820020:android:f896b640e47b752b286661",
+        "android_client_info": {
+          "package_name": "com.reginaldateya.summation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52516820020-pheou199656t56ohr26qvh2d2v29pdpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reginaldateya.summation",
+            "certificate_hash": "40e258fb40cdeb5c4b0632e780ccc99d51f5e418"
+          }
+        },
+        {
+          "client_id": "52516820020-21o48993be554ea3ch2tcnig8esskhi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1KTH4Xaxfa4UG5vul-NKtzQf1Abv0ffU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52516820020-21o48993be554ea3ch2tcnig8esskhi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
